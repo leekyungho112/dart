@@ -1,4 +1,4 @@
 void main() {
-  var name = 'lee';
+  dynamic name = 'lee';
   name = 'kim';
 }
