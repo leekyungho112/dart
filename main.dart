@@ -1,5 +1,3 @@
 void main() {
-  String? name = 'lee';
-  name = null;
-  name?.isNotEmpty;
+  final name = 'lee';
 }
