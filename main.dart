@@ -1,4 +1,5 @@
 void main() {
-  dynamic name = 'lee';
-  name = 'kim';
+  String? name = 'lee';
+  name = null;
+  name?.isNotEmpty;
 }
