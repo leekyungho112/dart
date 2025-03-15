@@ -1,3 +1,3 @@
 void main() {
-  late final name;
+  const name = 'lee';
 }
