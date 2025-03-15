@@ -1,3 +1,3 @@
 void main() {
-  final name = 'lee';
+  late final name;
 }
